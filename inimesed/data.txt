@@ -1,0 +1,4 @@
+Mati, Anna, 100
+Anna, Kati, 200
+Mati, Kati, 100
+Kati, Markus, 100
